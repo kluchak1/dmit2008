@@ -1,0 +1,244 @@
+{
+	"todos": {
+		"-Nq4ccKYPzyGU_nZ8eh9": {
+			"uid": "b77458b0",
+			"category": "health",
+			"status": "completed",
+			"todo": "Practice deep breathing exercises",
+			"start": "2023-03-24",
+			"finish": "2023-04-14"
+		},
+		"-Nq4ccK_dPHXsomBvmnM": {
+			"uid": "1516f79e",
+			"category": "work",
+			"status": "in-progress",
+			"todo": "Add social media sharing buttons",
+			"start": "2024-01-01",
+			"finish": "2024-01-22"
+		},
+		"-Nq4ccKaZ9V0MQi5zBQ_": {
+			"uid": "477557ab",
+			"category": "school",
+			"status": "completed",
+			"todo": "Study front-end testing methodologies",
+			"start": "2023-12-19",
+			"finish": "2024-01-09"
+		},
+		"-Nq4ccKcPCwv_bXmxNS-": {
+			"uid": "a0566665",
+			"category": "personal",
+			"status": "in-progress",
+			"todo": "Read a book",
+			"start": "2023-03-25",
+			"finish": "2023-04-15"
+		},
+		"-Nq4ccKeFbTkiyQD0GYx": {
+			"uid": "16512df2",
+			"category": "school",
+			"status": "in-progress",
+			"todo": "Practice debugging and troubleshooting",
+			"start": "2023-02-22",
+			"finish": "2023-03-01"
+		},
+		"-Nq4ccKfv3nVZEHEGV1M": {
+			"uid": "156218b7",
+			"category": "personal",
+			"status": "cancelled",
+			"todo": "Visit a museum",
+			"start": "2023-11-01",
+			"finish": "2023-11-22"
+		},
+		"-Nq4ccKh_8BbtxliglR0": {
+			"uid": "e03b63db",
+			"category": "work",
+			"status": "completed",
+			"todo": "Implement responsive design",
+			"start": "2023-11-09",
+			"finish": "2023-11-16"
+		},
+		"-Nq4ccKjYimAzAYeeqPA": {
+			"uid": "356b6cfa",
+			"category": "health",
+			"status": "completed",
+			"todo": "Try aromatherapy with essential oils",
+			"start": "2023-07-25",
+			"finish": "2023-08-08"
+		},
+		"-Nq4ccKk4rhoE1Zqp6bA": {
+			"uid": "bc872f01",
+			"category": "school",
+			"status": "completed",
+			"todo": "Explore different front-end frameworks",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
+		},
+		"-Nq4ccKmYFBoQsm2HHVM": {
+			"uid": "54a8ba48",
+			"category": "personal",
+			"status": "in-progress",
+			"todo": "Watch a movie",
+			"start": "2023-08-05",
+			"finish": "2023-08-26"
+		},
+		"-Nq4ccKo2m9Tn3yNrIyA": {
+			"uid": "680293e8",
+			"category": "work",
+			"status": "in-progress",
+			"todo": "Implement responsive design",
+			"start": "2023-11-22",
+			"finish": "2023-11-29"
+		},
+		"-Nq4ccKpjXlYII2AQidS": {
+			"uid": "4b25d642",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Experiment with CSS grid and flexbox",
+			"start": "2023-02-02",
+			"finish": "2023-02-09"
+		},
+		"-Nq4ccKr4QjVAhtxDXGj": {
+			"uid": "e0b13aee",
+			"category": "health",
+			"status": "cancelled",
+			"todo": "Practice self-care activities",
+			"start": "2023-03-18",
+			"finish": "2023-04-08"
+		},
+		"-Nq4ccKu2bddEIxNiDst": {
+			"uid": "8ab7d410",
+			"category": "school",
+			"status": "completed",
+			"todo": "Explore responsive typography",
+			"start": "2023-12-12",
+			"finish": "2023-12-19"
+		},
+		"-Nq4ccKx3PEzLAnGOq3M": {
+			"uid": "5490f5f4",
+			"category": "school",
+			"status": "in-progress",
+			"todo": "Explore different front-end frameworks",
+			"start": "2023-06-01",
+			"finish": "2023-06-15"
+		},
+		"-Nq4ccKyM9VGlcpni8H_": {
+			"uid": "bd8631da",
+			"category": "health",
+			"status": "completed",
+			"todo": "Try a new relaxation technique",
+			"start": "2024-01-05",
+			"finish": "2024-01-19"
+		},
+		"-Nq4ccL-ZuyB1tBPR0pS": {
+			"uid": "92865a55",
+			"category": "work",
+			"status": "cancelled",
+			"todo": "Create homepage layout",
+			"start": "2023-05-25",
+			"finish": "2023-06-08"
+		},
+		"-Nq4ccL17ePNMmUUQish": {
+			"uid": "88fd48f5",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Master CSS animations and transitions",
+			"start": "2023-06-10",
+			"finish": "2023-06-17"
+		},
+		"-Nq4ccL3y6Ivk0YGP40n": {
+			"uid": "5193ce88",
+			"category": "health",
+			"status": "completed",
+			"todo": "Try a new relaxation technique",
+			"start": "2023-04-16",
+			"finish": "2023-04-30"
+		},
+		"-Nq4ccL57QH5kEYd2fta": {
+			"uid": "fdbb0664",
+			"category": "work",
+			"status": "completed",
+			"todo": "Test website on multiple browsers",
+			"start": "2023-03-07",
+			"finish": "2023-03-14"
+		},
+		"-Nq4ccL7_36TDi0hrGFP": {
+			"uid": "76e7a3b0",
+			"category": "school",
+			"status": "completed",
+			"todo": "Study front-end build tools like Webpack",
+			"start": "2023-06-19",
+			"finish": "2023-06-26"
+		},
+		"-Nq4ccL8uEWBQp-mBOv9": {
+			"uid": "f61a3de0",
+			"category": "work",
+			"status": "completed",
+			"todo": "Design navigation menu",
+			"start": "2023-11-06",
+			"finish": "2023-11-20"
+		},
+		"-Nq4ccLAaUNd132sw8nY": {
+			"uid": "825e61b2",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Learn JavaScript fundamentals",
+			"start": "2023-11-24",
+			"finish": "2023-12-01"
+		},
+		"-Nq4ccLCDSGMdWU4ujjr": {
+			"uid": "547ea461",
+			"category": "school",
+			"status": "completed",
+			"todo": "Practice creating responsive images",
+			"start": "2023-02-02",
+			"finish": "2023-02-09"
+		},
+		"-Nq4ccLEguOgH3574ZZM": {
+			"uid": "4f7e59c1",
+			"category": "personal",
+			"status": "in-progress",
+			"todo": "Visit a farmer's market",
+			"start": "2023-11-13",
+			"finish": "2023-12-04"
+		},
+		"-Nq4ccLFA_TnW8QSpcYQ": {
+			"uid": "4d67a31f",
+			"category": "personal",
+			"status": "in-progress",
+			"todo": "Watch a movie",
+			"start": "2023-11-09",
+			"finish": "2023-11-30"
+		},
+		"-Nq4ccLHx7xyEKutih_B": {
+			"uid": "592c878f",
+			"category": "work",
+			"status": "in-progress",
+			"todo": "Integrate third-party API",
+			"start": "2023-10-13",
+			"finish": "2023-10-27"
+		},
+		"-Nq4ccLJ4QU9j41feFiW": {
+			"uid": "98fe4aac",
+			"category": "school",
+			"status": "cancelled",
+			"todo": "Learn about SEO for web development",
+			"start": "2023-08-06",
+			"finish": "2023-08-13"
+		},
+		"-Nq4ccLLy1kWypxIUEkJ": {
+			"uid": "7fcde20b",
+			"category": "school",
+			"status": "completed",
+			"todo": "Learn version control with Git",
+			"start": "2024-02-04",
+			"finish": "2024-02-25"
+		},
+		"-Nq4ccLMwPmp4t-SmYFW": {
+			"uid": "b2cbf9d2",
+			"category": "school",
+			"status": "completed",
+			"todo": "Build a responsive website using Bootstrap",
+			"start": "2023-02-22",
+			"finish": "2023-03-08"
+		}
+	}
+}
