@@ -41,3 +41,9 @@ export function updateToDo(updatedToDo) {
     const store = updateStore(payload)
     notify(store)
 }
+
+
+export function addToDo(newToDo) {
+    const dbRef = ref(db, `todos`)
+    push(dbRef, newToDo)
+}
