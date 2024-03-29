@@ -2,9 +2,7 @@ import { createStore, getStore } from '../models/store';
 import { addToDo } from '../models/toDoListModel';
 
 
-let addButton
 let dialog
-let uid
 let closeButton
 let exitButton
 let form
